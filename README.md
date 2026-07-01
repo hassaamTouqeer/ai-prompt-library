@@ -10,21 +10,6 @@ This repository serves as a learning resource for anyone interested in prompt en
 
 Whether you're a student, developer, content creator, business professional, or simply curious about AI, this repository is designed to help you write better prompts and get better results.
 
-## 📂 Repository Contents
-
-* Prompt engineering fundamentals
-* Essential prompt templates
-* Real-world prompt examples
-* Data analysis prompts
-* Learning and research prompts
-* Translation and summarization prompts
-* Creative writing prompts
-* Coding and debugging prompts
-* Prompt chaining techniques
-* Meta-prompting strategies
-* AI agent prompting
-* Best practices and tips
-
 ## 🎯 Goals
 
 * Learn the fundamentals of prompt engineering.
